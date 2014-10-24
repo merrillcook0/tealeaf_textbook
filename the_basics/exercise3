@@ -1,0 +1,2 @@
+{:lionKing => 1994, :titanic => 1997, :fightclub => 1999, :SecretOfKells => 2009 }
+puts :lionKing + :titanic + :fightclub + :SecretOfKells

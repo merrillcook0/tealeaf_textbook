@@ -1,0 +1,1 @@
+#a variable or method named shoes is trying to be called outside of the scope in which it is being called.

@@ -1,0 +1,1 @@
+# This error message is in response to something you inputted on the first line of your irb instance. It's letting you know that you close a '{' with a ')' which is a syntax error.
